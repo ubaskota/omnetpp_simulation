@@ -1,0 +1,3 @@
+package sampleplay;
+
+@license(LGPL);
